@@ -30,7 +30,8 @@ $Commands = [PSCustomObject]@{
     "skein" = " -d $SelGPUCC" #Skein
     #"timetravel" = "" #Timetravel
     "c11" = " -i 21 -d $SelGPUCC" #C11
-    #"x11evo" = "" #X11evo
+    "x11evo" = "" #X11evo
+    "veltor" = ""
     "x17" = " -i 21 -d $SelGPUCC" #X17
     #"yescrypt" = "" #Yescrypt
 }
